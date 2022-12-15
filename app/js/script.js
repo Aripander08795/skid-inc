@@ -15,56 +15,56 @@ skidinc.script.scripts = [{
     cost: 0,
     money: 118,
     exp: 8,
-    time: 4,
+    time: 2,
     i: 0
 }, {
     id: 'yerg.trj',
     cost: 3750,
     money: 1298,
     exp: 56,
-    time: 16,
+    time: 9,
     i: 1
 }, {
     id: 'acid.pl',
     cost: 52500,
     money: 14278,
     exp: 392,
-    time: 64,
+    time: 20,
     i: 2
 }, {
     id: 'memz.rsm',
     cost: 735000,
     money: 157058,
     exp: 2744,
-    time: 256,
+    time: 60,
     i: 3
 }, {
     id: 'gruel.vbs',
     cost: 10290000,
     money: 1727638,
     exp: 19208,
-    time: 1024,
+    time: 128,
     i: 4
 }, {
     id: 'cih.win',
     cost: 144060000,
     money: 19004018,
     exp: 134456,
-    time: 4096,
+    time: 208,
     i: 5
 }, {
     id: 'worm.cs',
     cost: 2016840000,
     money: 209044198,
     exp: 941192,
-    time: 16384,
+    time: 312,
     i: 6
 }, {
     id: 'blazer.dos',
     cost: 28235760000,
     money: 2299486178,
     exp: 6588344,
-    time: 65536,
+    time: 612,
     i: 7
 }];
 

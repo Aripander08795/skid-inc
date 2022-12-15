@@ -2,21 +2,21 @@ skidinc.battery = {};
 skidinc.battery.level = 1;
 skidinc.battery.levelCharge = 30;
 skidinc.battery.time = 0;
-skidinc.battery.price = 50000;
-skidinc.battery.inflation = 1.5;
+skidinc.battery.price = 30000;
+skidinc.battery.inflation = 1.2;
 skidinc.battery.maxCharge = 120;
 
 skidinc.battery.chargePower = 7;
 skidinc.battery.chargePowerMult = 1;
 skidinc.battery.chargeTimeMult = 1;
 
-skidinc.battery.moneyPerLevel = 0.06;
-skidinc.battery.expPerLevel = 0.04;
-skidinc.battery.timePerLevel = 0.02;
+skidinc.battery.moneyPerLevel = 0.25;
+skidinc.battery.expPerLevel = 0.20;
+skidinc.battery.timePerLevel = 0.18;
 
-skidinc.battery.moneyEffect = 1.25;
-skidinc.battery.expEffect = 1.15;
-skidinc.battery.timeMult = 1.10;
+skidinc.battery.moneyEffect = 1.55;
+skidinc.battery.expEffect = 1.35;
+skidinc.battery.timeMult = 1.20;
 
 skidinc.battery.cursorEnter = false;
 skidinc.battery.cursorLeave = true;

@@ -1,9 +1,9 @@
 skidinc.prestige = {};
 skidinc.prestige.botnetOnReset = 0;
-skidinc.prestige.baseMult = 0.02;
+skidinc.prestige.baseMult = 0.12;
 
 skidinc.prestige.getBotnet = function() {
-    return Math.floor(5 * Math.sqrt(skidinc.player.totalMoney / 1e9));
+    return Math.floor(7 * Math.sqrt(skidinc.player.totalMoney / 6e5));
 };
 
 skidinc.prestige.getPrestigeMult = function() {
